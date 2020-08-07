@@ -13,7 +13,7 @@
 # Seteo de variables del proceso
 # ------------------------------------------------------------------------------------------------------
 
-#v_sistema=GIA-WEB
+#v_sistema=GIA-WEB (modificado)
 #v_url_instalacion=gfepy.test.datalogic-software.com
 #v_ejecutable_instalador=GIAWeb_unix_6_10_00.sh
 #v_tipo_descarga="Beta"
